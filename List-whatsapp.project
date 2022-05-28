@@ -1,0 +1,48 @@
+'(List menu Whatsapp)[html://whatsapp-menu.incuery]'
+ 'Nama Button':List menu
+ 'Command':(.menu, /menu, !menu, $menu)
+ 'Pesan':Halo kak {nama} (Pagi/24:00-12:00)(Siang/12:00-17:00)(Malam/17:00-24:00) Yah %0A%0A Silahkan pilih menu dibawah yah kak Atau tekan List menu dibawah.
+ 'Judul':Pilihan menu 
+   'List menu 1': Menu downloader
+     'Footer':Command untuk menu downloader
+   'List menu 2': Menu iklan
+     'Footer':Command untuk menu iklan
+   'List menu 3': Menu jadibot
+     'Footer':Command untuk menu jadibot
+   'List menu 4': Menu premium & Vip
+     'Footer':Command untuk menu premium & vip
+   'List menu 5': All menu
+     'Footer':Command untuk semua menu
+   'List menu 6': Menu play
+     'Footer':Command untuk menu play
+   'List menu 7': Menu suara
+     'Footer':Command untuk menu suara
+   'List menu 8': Menu perang & war
+     'Footer':Command untuk menu Perang & war
+   'List menu 9': Menu item
+     'Footer':Command untuk menu item
+   'List menu 10': Menu toko
+     'Footer':Command untuk menu toko
+ 'Judul':Thanks too
+   'List menu 1': Alyaaxyz
+     'Footer':Kontributor menu
+   'List menu 2': Tio pernama
+     'Footer':Kontributor utama
+   'List menu 3': Mhankbarbar
+     'Footer':Creator resmi
+   'List menu 4': Adiwajshing
+     'Footer':Pembuat sistem bot
+   'List menu 5': My Family
+     'Footer':Thanks too my family
+ 'Header (Copyright://header-whatsapp.copyright)':Copyright © 2022 Wibubot (Cname:Akhiran kata)
+ 'Footer (Copyright://header-whatsapp.copyright)':Copyright © 2022 Wibubot (Cname:Akhiran kata footer dan header)
+
+'Notes':Silahkaan ganti nama button ataupun command dll dan jangan mengganti link pada tulisan nya
+
+
+
+
+
+
+
+
